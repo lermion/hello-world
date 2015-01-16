@@ -1,4 +1,1 @@
-hello-world
-===========
-
-I love a Rock music!
+var a = 10;
